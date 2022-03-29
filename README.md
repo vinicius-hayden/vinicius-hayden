@@ -1,12 +1,12 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vinicius Hayden</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from Brazil.</h3>
+<h1 align="center">Hi there, I'm Vinicius Hayden :)</h1>
+<h3 align="center">I'm a passionate Full Stack Development student.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently a Certified Tech Developer Student at **[Digital House](https://www.digitalhouse.com/br/)**.
+- 🔭 I’m a Certified Tech Developer Student at **[Digital House](https://www.digitalhouse.com/br/)**.
 
 - 🌱 I’m currently learning How to code in **JavaScript and Ruby.**
 
@@ -42,12 +42,7 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-<br/>
-<br/>
 
-<a href="https://github.com/vinicius-hayden/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vinicius-hayden&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
 <br/>
 
 ## Connect with me:
