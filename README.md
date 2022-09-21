@@ -8,7 +8,7 @@
 
 - 🔭 I’m a Certified Tech Developer Student at **[Digital House](https://www.digitalhouse.com/br/)**.
 
-- 🌱 I’m currently learning How to code in **JavaScript and Ruby.**
+- 🌱 I’m currently learning How to code in **JavaScript and Java.**
 
 - 🎂 I'm 18 years old.
 
