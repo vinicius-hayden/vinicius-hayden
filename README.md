@@ -5,9 +5,9 @@
 
 
 ## 🙋‍♂️ About Me
-- 🎂 I'm 18 years old.
+- 🎂 I'm 19 years old.
 
-- 🔭 I’m a Certified Tech Developer Student at **[Digital House](https://www.digitalhouse.com/br/)**.
+- 🔭 I’m a Certified Tech Developer Student at **[Seneca College](https://www.senecacollege.ca/)**.
 
 - 🌱 I’m currently learning How to code in **JavaScript and Java.**
 
