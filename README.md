@@ -4,10 +4,10 @@
 <h3 align="center">I'm a passionate Full Stack Development student.</h3>
 
 
-## 🙋‍♂️ About Me
+## 🙋🏻‍♂️ About Me
 - 🎂 I'm 20 years old.
 
-- 🔭 I’m a SWE Student at **[Seneca Polytechnic](https://www.senecacollege.ca/)**.
+- 💻 I’m a SWE Student at **[Seneca Polytechnic](https://www.senecacollege.ca/)**.
 
 - 📱 I’m currently building an application from scratch with **Next.JS and PostgreSQL.**
 
