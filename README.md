@@ -5,7 +5,7 @@
 
 
 ## 🙋🏻‍♂️ About Me
-- 🎂 I'm 20 years old.
+- 🎂 I'm 20 years old. 
 
 - 💻 I’m a SWE Student at **[Seneca Polytechnic](https://www.senecacollege.ca/)**.
 
